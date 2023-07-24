@@ -45,9 +45,7 @@ pip install -r requirements.txt
 python Reg_login.py
 ```
 
-```diff
-- warning
-```
+** Things to remember **
 * Always activate the virtualenv before running the application
 * Never Delete any files (might cause problems running the application)
 
