@@ -11,6 +11,8 @@ This application aims to alleviate stress and enhance productivity by offering a
 * [Mahalakshmi](https://github.com/MahaLakshmi729)
 * [Sharvesh](https://github.com/rsharvesh16)
 * [Melvin](https://github.com/TalesOfAnAlpha)
+* [Samiya Banu](https://github.com/Samiya-Banu)
+* [Kevin](https://github.com/kjchrono03)
 
 
 ## Setting up the project (Windows)
@@ -45,7 +47,7 @@ pip install -r requirements.txt
 python Reg_login.py
 ```
 
-** Things to remember **
+**Things to remember**
 * Always activate the virtualenv before running the application
 * Never Delete any files (might cause problems running the application)
 
