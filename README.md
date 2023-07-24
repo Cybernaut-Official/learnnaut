@@ -15,8 +15,6 @@ This application aims to alleviate stress and enhance productivity by offering a
 
 ## Setting up the project (Windows)
 
-### Create a virtual env
-
 * Before creating the virtualenv you have to install the following pip package
 
 ```
