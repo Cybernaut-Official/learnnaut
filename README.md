@@ -3,7 +3,7 @@
 ![Dashboard](https://github.com/Cybernaut-Official/learnnaut/blob/main/dash.jpg)
 
 
-The Study Planner Application is a powerful and versatile tool designed to assist students in organizing and optimizing their academic schedules effectively. 
+Learnnaut is a powerful and versatile tool designed to assist students in organizing and optimizing their academic schedules effectively. 
 In today's fast-paced and demanding educational environment, students often find it challenging to balance multiple courses, assignments, exams, and extracurricular activities. 
 This application aims to alleviate stress and enhance productivity by offering a comprehensive platform that streamlines the study process.
 
